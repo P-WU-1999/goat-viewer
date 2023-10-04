@@ -58,5 +58,9 @@ Tensorboard logs will be output at training/logs folder (It will be automaticall
   <img src="https://github.com/P-WU-1999/goat-viewer/blob/main/repo_images/ncm.png">
 </p>
 
+## Citation
+
+If you use either the paper or code in your paper or project, please kindly star this repo and cite our work.
+
 
 
