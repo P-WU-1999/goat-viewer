@@ -1,0 +1,1 @@
+Put preprocessed photos that should be recognised here.
