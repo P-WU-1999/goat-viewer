@@ -47,7 +47,7 @@ Tensorboard logs will be output at training/logs folder (It will be automaticall
 
 ### Recognition
 
-1. Preprocess the new dataset.
+1. [Preprocess](https://github.com/P-WU-1999/goat-viewer#preprocessing) the new dataset.
 2. Put the preprocessed dataset into [datasets/recognition](https://github.com/P-WU-1999/goat-viewer/tree/main/datasets/recognition) folder.
 3. Put the trained model in recognition folder and rename it as model.pth.
 4. Run [recognition/recognition.py](https://github.com/P-WU-1999/goat-viewer/blob/main/recognition/recognition.py).
