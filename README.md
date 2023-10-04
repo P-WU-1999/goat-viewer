@@ -45,7 +45,7 @@ Training set and validation set are required for training. We provided methods t
 Run [training/train.py](https://github.com/P-WU-1999/goat-viewer/blob/main/training/train.py). This will start the training loop.
 Tensorboard logs will be output at training/logs folder (It will be automatically create). The best models with the highest accuracy will be saved in the training folder.
 
-### recognition
+### Recognition
 
 1. Preprocess the new dataset.
 2. Put the preprocessed dataset into [datasets/recognition](https://github.com/P-WU-1999/goat-viewer/tree/main/datasets/recognition) folder.
