@@ -25,7 +25,7 @@ Preprocessing is based on the [YOLOv8](https://github.com/ultralytics/ultralytic
 We also provided two trained YOLOv8 models in [models/YOLO](https://github.com/P-WU-1999/goat-viewer/tree/main/models/YOLO).
 You may replace them with your own models by overwrite them.
 
-If you are using your own model, you should modift the num_goats parameter in [training/train.py](https://github.com/P-WU-1999/goat-viewer/blob/main/training/train.py) and [recognition/recognition.py](https://github.com/P-WU-1999/goat-viewer/tree/main/datasets/recognition).
+If you are using your own model, you should modify the num_goats parameter in [training/train.py](https://github.com/P-WU-1999/goat-viewer/blob/main/training/train.py) and [recognition/recognition.py](https://github.com/P-WU-1999/goat-viewer/tree/main/datasets/recognition).
 
 By doing preprocess you should follow steps below:
 
