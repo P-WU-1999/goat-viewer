@@ -23,7 +23,9 @@ The project is tested on the [Billah's Goat Image Dataset](https://data.mendeley
 Preprocessing is based on the [YOLOv8](https://github.com/ultralytics/ultralytics) algorithm. We used it's “Detect” and 
 "Segment" models. Instructions can be found on the [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/). 
 We also provided two trained YOLOv8 models in [models/YOLO](https://github.com/P-WU-1999/goat-viewer/tree/main/models/YOLO).
-You may replace them with your owe models by overwrite them.
+You may replace them with your own models by overwrite them.
+
+If you are using your own model, you should modift the num_goats parameter in [training/train.py](https://github.com/P-WU-1999/goat-viewer/blob/main/training/train.py) and [recognition/recognition.py](https://github.com/P-WU-1999/goat-viewer/tree/main/datasets/recognition).
 
 By doing preprocess you should follow steps below:
 
